@@ -1,0 +1,11 @@
+my application code.
+this is the first code to me
+
+import java.util.*;
+class Sample
+{
+public static void main (String args[])
+{
+System.out.println("welcome to the java language")
+}
+}
